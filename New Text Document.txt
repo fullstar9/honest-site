@@ -1,0 +1,4 @@
+"homepage": "https://fullstar9.github.io/honest",
+
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
